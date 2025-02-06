@@ -1,0 +1,1 @@
+# MidProject-BNCC-LnT-FrontendDevelopment-2025
