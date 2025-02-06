@@ -1,0 +1,63 @@
+body {
+    background-color:beige;
+    margin: 0px;
+}
+
+.judul {
+    text-align: center;
+    font-family:Georgia;
+    padding: 30px;
+}
+
+.title {
+    margin: 0px;
+}
+
+.nav {
+    padding: 10px;
+    background-color: #ffe1bf;
+    display: flex;
+    gap: 30px;
+    justify-content: space-evenly;
+}
+
+a {
+    text-decoration: none;
+    font-family:tahoma;
+    font-weight: bold;
+    color: black;
+}
+
+.isi {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+#judul2 {
+    font-family: cursive;
+    margin: 0px;
+    padding: 20px;
+    font-weight: normal;
+}
+
+form {
+    display: inline-block;
+    border-radius: 20px;
+    background-color: #dbc681;
+    padding: 20px;
+}
+
+.input {
+    display: flex;
+    flex-direction: column;
+}
+
+#login {
+    margin-right: 10px;
+    margin-top: 20px;
+}
+
+#sign-up {
+    margin-left: 10px;
+    margin-top: 20px;
+}

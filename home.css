@@ -1,0 +1,60 @@
+body {
+    background-color: beige;
+    margin: 0px;
+    font-family: cursive;
+}
+
+.nav {
+    padding: 10px;
+    background-color: #ffe1bf;
+    display: flex;
+    gap: 30px;
+    justify-content: space-evenly;
+}
+
+a {
+    text-decoration: none;
+    font-family:tahoma;
+    font-weight: bold;
+    color: black;
+}
+
+#judulpage {
+    font-family: cursive;
+    margin: 0px;
+    padding: 20px;
+    font-weight: normal;
+    text-align: center;
+}
+
+.sub-judul {
+    font-family:Cambria, Cochin, Georgia, Times;
+    text-align: center;
+}
+
+.judul {
+    text-align: center;
+    font-family:Georgia;
+    padding: 30px;
+}
+
+.title {
+    margin: 0px;
+}
+
+p {
+    text-align: justify;
+    font-size: 14px;
+    margin: 0px 150px;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+ul {
+    font-size: 14px;
+    margin: 0px 150px;
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
